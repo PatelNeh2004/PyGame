@@ -90,4 +90,5 @@ Use plain language and define jargon. Prefer one concept and one short command s
 - Completed: Git author identity configured with `user.name` and `user.email`.
 - Completed: `.gitignore` created and verified with Neovim; `.venv` and generated files are excluded.
 - Completed: local Git repository initialized with `git init`; `main` branch verified.
-- Current lesson: staging files and creating the first local commit, using Neovim for editing.
+- Completed: files staged with `git add .`; ignored `.venv` confirmed absent from staging.
+- Current lesson: creating and inspecting the first local commit, using Neovim for editing.
